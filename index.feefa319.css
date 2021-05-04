@@ -1,2 +1,0 @@
-*{box-sizing:border-box}body,html{margin:0;padding:0;width:100%;height:100%}body{flex-direction:row;padding:1rem}.compass,body{display:flex;justify-content:center;align-items:center}.compass{width:50%;max-height:100%}.compass-img{width:100%;max-height:100%}.copy{font-family:EB Garamond,serif;font-size:2em}@media (max-width:550px){body{flex-direction:column;align-items:center;justify-content:flex-end}.compass{width:100%;flex-grow:1}.copy{flex-grow:0}}
-/*# sourceMappingURL=index.feefa319.css.map */
